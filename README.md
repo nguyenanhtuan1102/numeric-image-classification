@@ -8,9 +8,9 @@ This code implements an artificial neural network (ANN) to classify images from 
 
 ### 1. Import Libraries:
 
-numpy: Provides numerical operations.
-tensorflow.keras: Provides deep learning functionalities.
-matplotlib.pyplot: Used for visualization.
+- numpy: Provides numerical operations.
+- tensorflow.keras: Provides deep learning functionalities.
+- matplotlib.pyplot: Used for visualization.
 
 ``` bash
 import numpy as np
