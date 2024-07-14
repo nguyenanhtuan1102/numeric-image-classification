@@ -1,7 +1,6 @@
-# OVERVIEW
+# NUMERIC IMAGE CLASSIFICATION
 
-![6](https://github.com/tuanng1102/ann-image-classification-with-mnist-dataset/assets/147653892/ef6d64e4-b12c-4293-81e8-655962fbab90)
-
+![mnist](https://github.com/user-attachments/assets/cd0fac4c-ad34-4b2d-af0b-74f4b0432075)
 
 - Artificial Neural Network for MNIST Image Classification
 - This code implements an artificial neural network (ANN) to classify images from the MNIST dataset, which consists of labeled images of various numbers. The code covers the following steps:
